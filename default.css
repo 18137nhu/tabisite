@@ -1,0 +1,33 @@
+h1{color:dimgray;
+   font-size:350%;
+}
+h2{color:FF5192;
+   font-size:200%;
+   text-align:center;
+}
+h3{font-size:130%;
+   text-align:center;
+}
+h4{font-size:130%;
+   text-align:center;
+}
+h5{font-size:130%;
+   text-align:center;
+}
+h6{font-size:130%;
+   text-align:center;
+}
+h7{font-size:130%;
+   text-align:center;
+}
+h8{font-size:130%;
+   text-align:center;
+}
+
+.explain-block{display:flex;
+justify-content:flex-start;}
+
+.explain-image{width:230px;}
+.explain-image img{width:100%;}
+
+.explain-detail{width:calc(100%-200px);}
